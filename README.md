@@ -20,11 +20,14 @@ OpenClawベースで、AIとWebマーケ（広告）領域の **X → 無料note
 - `requirements/requirements-v1.md` — 要件定義の正式版
 - `requirements/kpi-draft.md` — 初期KPI案
 - `configs/brand-config.example.md` — ブランド設定のたたき台
+- `configs/brand-config.working.md` — 実運用で埋めるブランド設定ファイル
 - `runbooks/daily-operations.md` — 日次運用runbook
+- `runbooks/post-migration-checklist.md` — 他PC移行後の確認メモ
 - `workflows/content-production-flow.md` — 制作フローの固定化メモ
 - `prompts/` — 5部隊の土台プロンプト
 - `samples/` — 日次素材テンプレ / 承認テンプレ
 - `logs/README.md` — ログ保存方針メモ
+- `logs/templates/daily-log-template.md` — 初回運用ログの雛形
 
 ## 現在の進捗
 - 要件定義 v1 作成済み
@@ -33,9 +36,12 @@ OpenClawベースで、AIとWebマーケ（広告）領域の **X → 無料note
 - 5部隊の土台プロンプト 作成済み
 - サンプル素材テンプレ / 承認テンプレ 作成済み
 - GitHub同期用の初期構成整理済み
+- 移行後チェックメモ 追加済み
+- 実運用用ブランド設定ファイル 追加済み
+- 日次ログ雛形 追加済み
 
 ## 次の作業
 1. 各部隊の出力サンプル作成
-2. ログ運用ルールの具体化
-3. ブランド設定ファイルの実運用版作成
-4. 初回運用ログの雛形追加
+2. `configs/brand-config.working.md` を実データで埋める
+3. 初回の日次ログを作成する
+4. SNSアカウント情報を運用ファイルへ反映する
