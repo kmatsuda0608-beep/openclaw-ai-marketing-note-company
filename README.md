@@ -32,6 +32,8 @@ OpenClawベースで、AIとWebマーケ（広告）領域の **X → 無料note
 - `samples/README.md` — サンプル群の使い方
 - `samples/` — 日次素材テンプレ / 承認テンプレ / 各部隊の出力サンプル
 - `research/source-watchlist-v1.md` — 海外中心の情報収集ソース一覧
+- `research/learning-roadmap-ai-webmarketing-v1.md` — AIとWebマーケの継続学習方針
+- `research/knowledge-map-ai-webmarketing-v1.md` — 重点学習分野の地図
 - `sheets/source-watchlist-template.csv` — 収集元管理テンプレ
 - `logs/README.md` — ログ保存方針メモ
 - `logs/templates/daily-log-template.md` — 日次運用ログの雛形
@@ -53,7 +55,7 @@ OpenClawベースで、AIとWebマーケ（広告）領域の **X → 無料note
 - 日次ログ雛形 / 初回ログ 追加済み
 
 ## 次の作業
-1. ウォッチリストを使って毎日の情報収集運用を回し始める
+1. 学習ロードマップに沿って毎日の情報収集と理解メモを回し始める
 2. X / Threads で伸びる構成パターンを抽出する
 3. 初回有料note案 `requirements/initial-paid-note-v1.md` をベースに販売文面を整える
 4. 案件獲得向けCTAを投稿導線へ組み込む
