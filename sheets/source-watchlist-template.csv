@@ -1,0 +1,11 @@
+priority,platform,name,url,theme,check_frequency,why_watch,post_angle
+A,X,OpenAI,https://x.com/OpenAI,AI,Daily,新機能とモデル発表の一次情報,日本の実務でどう使えるか
+A,X,Anthropic,https://x.com/AnthropicAI,AI,Daily,Claude系アップデート確認,業務効率化や運用設計への応用
+A,X,Google AI,https://x.com/GoogleAI,AI,Daily,Google系AIの初動確認,広告や検索との接続
+A,X,Search Engine Journal,https://x.com/sejournal,Webマーケ,Daily,SEOや検索アップデート,実務者向け要点整理
+A,X,Ahrefs,https://x.com/ahrefs,SEO,Daily,SEOとコンテンツ実務,保存される実務ネタ
+B,YouTube,HubSpot,https://www.youtube.com/@HubSpot,マーケ,Every 2 days,長尺で体系理解しやすい,日本向け要約
+B,YouTube,Ahrefs,https://www.youtube.com/@AhrefsCom,SEO,Every 2 days,SEO実務の深掘り,図解系投稿に転換
+B,Threads,OpenAI,https://www.threads.com/@openai,AI,Every 2 days,Xで拾えない空気感補完,会話寄り投稿
+C,Web,OpenAI Blog,https://openai.com/news,AI,Weekly,正式発表の裏取り,断定前確認
+C,Web,HubSpot Blog,https://blog.hubspot.com/marketing,Webマーケ,Weekly,体系記事のストック,evergreen化
