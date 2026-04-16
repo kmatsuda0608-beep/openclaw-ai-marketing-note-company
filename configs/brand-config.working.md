@@ -54,8 +54,8 @@
 - 売上額、顧客名、未確認の他者実績は使わない
 
 ## SNSアカウント
-- X: 未作成
-- Threads: 未作成
+- X: https://x.com/w80vG1PXpW3433
+- Threads: https://www.threads.com/@shikumika_labo
 - Instagram: 未作成
 - YouTube: 未作成
 
